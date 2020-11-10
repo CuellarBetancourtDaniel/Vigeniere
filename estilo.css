@@ -1,0 +1,23 @@
+BODY {color:brown }
+
+P {color:black; 
+   font-size:20px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-transform:capitalize;
+   text-align:center;
+   text-indent:30px;
+   background: linear-gradient(to right, rgba(179,220,237,1) 0%, rgba(41,184,229,1) 50%, rgba(188,224,238,1) 100%);
+
+  }
+  textarea {width:300px;height: 100px}
+div{
+   text-align:center;
+   font-size:30px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+}
